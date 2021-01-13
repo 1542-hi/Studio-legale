@@ -1,1 +1,41 @@
 # Studio-legale
+1) Non pubblicare nessun contenuto NSFW (Not Safe For Work), NSFL (Not Safe For Life) oppure link non sicuri
+- NSFW = Contenuti pornografici i quali potrebbero infastidire alcune persone
+
+- NSFL = Gore ossia contenuti che potrebbero nuocere alla salute delle persone che osservano
+
+- Link non sicuri = I link non sicuri ossia senza la verifica di Google possono essere dannosi per i dispositivi che li aprono;
+
+
+2) Rispettare ogni membro del server
+- Non insultare o discriminare una persona
+
+- Non pubblicare contenuti offensivi contro alcune persone del server
+
+- Non pubblicare dati sensibili di una persona (Es. foto personali o chat)
+
+- Non discriminare una persona per le sue idee;
+
+2.1) Lasciare ad ogni persona il diritto di parola
+
+
+3) Non Spammare/Flooddare
+- Spam = Mandare li stessi messaggi per tantissime volte
+
+- Flood = Mandare tanti messaggi di seguito intasando così la chat;
+
+
+4) Non fare pubblicità ai propri gruppi
+- Mandare link di server discord qui è severamente vietato
+
+- Mandare i link di server discord ai nostri membri (Se loro non sono d'accordo) è vietato
+
+
+5) Non usare software per infastidire le persone nei canali vocali
+- Usare Soundboard, Software per la voce, mettere musica a volumi altissimi (Errape)
+
+5.1) Non infastidire le persone all'interno dei canali vocali
+
+
+6) Non commettere Ghost Ping/Shit Ping
+- Ghost Ping = Menzionare e poi togliere il ping
